@@ -8,10 +8,11 @@
 Notre projet, "Au Sommet de l'Excellence: Jeux Olympiques en Action", est un ensemble de deux jeux interactifs développés avec le moteur 3D Babylon.js. Ces jeux sont conçus pour offrir une expérience immersive à travers des simulations sportives utilisant des technologies avancées.
 
 ### Comment Lancer le Jeu
-Accédez à notre collection de jeux "Au Sommet de l'Excellence" et jouez directement depuis votre navigateur en cliquant sur le lien suivant :
-- [Lancer le Jeu](https://estassy.github.io/JeuBabylon/)
+**Accédez à notre collection de jeux "Au Sommet de l'Excellence" et jouez directement depuis votre navigateur en cliquant sur le lien suivant :**
+- [**Lancer le Jeu**](https://estassy.github.io/JeuBabylon/)
 
 Profitez de notre plateforme interactive qui vous transporte dans un monde de défis sportifs et de stratégies en simulation de curling.
+
 
 ### Captures d'écran
 Pour vous donner un avant-goût de notre expérience interactive, voici quelques captures d'écran de nos jeux :
