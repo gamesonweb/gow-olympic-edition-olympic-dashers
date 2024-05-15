@@ -1,8 +1,10 @@
 # JeuBabylon: Au Sommet de l'Excellence - Jeux Olympiques en Action
 
 **Développeurs :**
-- Filipe PEREDO, [filipe.peredo@etu.univ-amu.fr](mailto:filipe.peredo@etu.univ-amu.fr)
-- BATABA Estassy Marc, [marc-estassy.bataba@etu.univ-amu.fr](mailto:marc-estassy.bataba@etu.univ-amu.fr)
+- Filipe PEREDO, MIAGE, Université d'Aix-Marseille, Aix-En-Provence
+  - Email : [filipe.peredo@etu.univ-amu.fr](mailto:filipe.peredo@etu.univ-amu.fr)
+- BATABA Estassy Marc, MIAGE, Université d'Aix-Marseille, Marseille
+  - Email : [marc-estassy.bataba@etu.univ-amu.fr](mailto:marc-estassy.bataba@etu.univ-amu.fr)
 
 ## Description du projet
 Notre projet, "Au Sommet de l'Excellence: Jeux Olympiques en Action", est un ensemble de deux jeux interactifs développés avec le moteur 3D Babylon.js. Ces jeux sont conçus pour offrir une expérience immersive à travers des simulations sportives utilisant des technologies avancées.
@@ -11,7 +13,7 @@ Notre projet, "Au Sommet de l'Excellence: Jeux Olympiques en Action", est un ens
 **Accédez à notre collection de jeux "Au Sommet de l'Excellence" et jouez directement depuis votre navigateur en cliquant sur le lien suivant :**
 - [**Lancer le Jeu**](https://estassy.github.io/JeuBabylon/)
 
-Profitez de notre plateforme interactive qui vous transporte dans un monde de défis sportifs et de stratégies en simulation de curling.
+**Profitez de notre plateforme interactive qui vous transporte dans un monde de défis sportifs et de stratégies en simulation de curling.**
 
 
 ### Captures d'écran
@@ -38,7 +40,7 @@ Le premier jeu met en scène une série de défis sportifs inspirés des Jeux Ol
 - **Gameplay Complet :** [Voir la vidéo de démo](lien-vers-youtube-premier-jeu)
 
 ### Captures d'Écran
-![Capture1](lien-vers-image1) ![Capture2](lien-vers-image2)
+![Capture1](./screenshots/jeu1-1) ![Capture2](./screenshots/jeu1-2)
 
 ## Deuxième Jeu: Soccer - Simulation de Curling avec Physique Avancée
 
@@ -57,7 +59,7 @@ Découvrez "Soccer" en action et voyez comment maîtriser les pierres de curling
 - [Voir la vidéo de gameplay pour "Soccer"](lien-vers-youtube-deuxieme-jeu)
 
 ### Captures d'Écran
-![Capture1](lien-vers-image1) ![Capture2](lien-vers-image2)
+![Capture1](./screenshots/jeu2-1) ![Capture2](./screenshots/jeu2-2)
 
 ## Vidéos Bonus
 - **Présentation de l'Équipe :** [Voir la vidéo](lien-vers-youtube-presentation)
