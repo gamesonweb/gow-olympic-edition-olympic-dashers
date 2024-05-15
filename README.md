@@ -40,7 +40,7 @@ Le premier jeu met en scène une série de défis sportifs inspirés des Jeux Ol
 - **Gameplay Complet :** [Voir la vidéo de démo](lien-vers-youtube-premier-jeu)
 
 ### Captures d'Écran
-![Capture1](./screenshots/jeu1-1) ![Capture2](./screenshots/jeu1-2)
+![Capture1](./screenshots/jeu1-1.png) ![Capture2](./screenshots/jeu1-2.png)
 
 ## Deuxième Jeu: Soccer - Simulation de Curling avec Physique Avancée
 
@@ -59,7 +59,7 @@ Découvrez "Soccer" en action et voyez comment maîtriser les pierres de curling
 - [Voir la vidéo de gameplay pour "Soccer"](lien-vers-youtube-deuxieme-jeu)
 
 ### Captures d'Écran
-![Capture1](./screenshots/jeu2-1) ![Capture2](./screenshots/jeu2-2)
+![Capture1](./screenshots/jeu2-1.png) ![Capture2](./screenshots/jeu2-2.png)
 
 ## Vidéos Bonus
 - **Présentation de l'Équipe :** [Voir la vidéo](lien-vers-youtube-presentation)
