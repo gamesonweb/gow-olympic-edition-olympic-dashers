@@ -1,6 +1,7 @@
 # JeuBabylon: Au Sommet de l'Excellence - Jeux Olympiques en Action
 
 **Développeurs :**
+- Filipe PEREDO, [filipe.peredo@etu.univ-amu.fr](mailto:filipe.peredo@etu.univ-amu.fr)
 - BATABA Estassy Marc, [marc-estassy.bataba@etu.univ-amu.fr](mailto:marc-estassy.bataba@etu.univ-amu.fr)
 
 ## Description du projet
