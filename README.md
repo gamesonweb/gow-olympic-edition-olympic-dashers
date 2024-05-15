@@ -13,6 +13,14 @@ Accédez à notre collection de jeux "Au Sommet de l'Excellence" et jouez direct
 
 Profitez de notre plateforme interactive qui vous transporte dans un monde de défis sportifs et de stratégies en simulation de curling.
 
+### Captures d'écran
+Pour vous donner un avant-goût de notre expérience interactive, voici quelques captures d'écran de nos jeux :
+
+#### Capture d'écran 1
+![Capture d'écran du jeu 1](./screenshots/index.png)
+
+#### Capture d'écran 2
+![Capture d'écran du jeu 2](./screenshots/list.png)
 
 ## Premier Jeu: Défis Sportifs Olympiques
 
