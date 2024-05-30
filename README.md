@@ -9,6 +9,28 @@
 ## Description du projet
 Notre projet, "Au Sommet de l'Excellence: Jeux Olympiques en Action", est un ensemble de deux jeux interactifs développés avec le moteur 3D Babylon.js. Ces jeux sont conçus pour offrir une expérience immersive à travers des simulations sportives utilisant des technologies avancées.
 
+---
+
+### Contrôles des Jeux
+
+#### Premier Jeu: Défis Sportifs Olympiques
+
+Dans ce jeu, les joueurs doivent naviguer à travers différents obstacles pour gagner des points et monter de niveau. Les contrôles sont les suivants :
+
+- **Q** : Déplacement vers la gauche.
+- **D** : Déplacement vers la droite.
+- **Espace** : Saut.
+
+#### Deuxième Jeu: Soccer - Simulation de Curling avec Physique Avancée
+
+Dans ce jeu, les joueurs contrôlent des pierres de curling pour marquer dans des zones adverses, avec des interactions physiques réalistes. Les contrôles sont les suivants :
+
+- **Z** : Déplacement vers le haut.
+- **Q** : Déplacement vers la gauche.
+- **D** : Déplacement vers la droite.
+- **S** : Déplacement vers le bas.
+
+---
 ### Comment Lancer le Jeu
 **Accédez à notre collection de jeux "Au Sommet de l'Excellence" et jouez directement depuis votre navigateur en cliquant sur le lien suivant :**
 - [**Lancer le Jeu**](https://estassy.github.io/JeuBabylon/)
